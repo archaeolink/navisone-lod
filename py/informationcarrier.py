@@ -73,7 +73,7 @@ for index, row in data.iterrows():
     else:
         img = "https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/" + img
     lines.append("no:obj_" + str(row['id']) + " " + "lado:hasImage" + " " + "<" + img + "> .")
-    doclink = "https://archaeolink.github.io/navisone-lod/" + str(row['id']) + "/index.html"
+    doclink = "https://archaeolink.github.io/navisone-lod/obj_" + str(row['id']) + "/index.html"
     lines.append("no:obj_" + str(row['id']) + " " + "rdfs:seeAlso" + " " + "<" + doclink + "> .")
     # prov-o
     lines.append("no:" + str(row['id']) + " " + "prov:wasAttributedTo" + " no:ImportPythonScript .")
