@@ -1,0 +1,13 @@
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/ship001/image/001f007.jpg> .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#hasObjectTypeString> "Wreck"@en .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#hasObjectTypeString> "Schiffswrack"@de .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Wreck> .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#madeOfString> "Oak (Quercus spp.)"@en .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#madeOfString> "Eiche"@de .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#timeInterval> "Roman"@en .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://archaeology.link/ontology#timeInterval> "Römisch"@de .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://www.w3.org/2000/01/rdf-schema#label> "Skuldelev 1 > 1"@en .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/100039/index.html> .
+<http://data.archaeology.link/data/navisone/obj_100039> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

@@ -1,0 +1,4 @@
+<http://data.archaeology.link/data/navisone/obj_100111> <http://archaeology.link/ontology#hasObjectTypeString> "Wreck"@en .
+<http://data.archaeology.link/data/navisone/obj_100111> <http://archaeology.link/ontology#hasObjectTypeString> "Schiffswrack"@de .
+<http://data.archaeology.link/data/navisone/obj_100111> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_100111> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

@@ -1,0 +1,19 @@
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/alta/bb1_mosaic.png> .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#hasObjectTypeString> "Rock Art"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#hasObjectTypeString> "Felszeichnung"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Rockart> .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeByString> "Carving"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeByString> "Geschnitten"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeOfString> "Bedrock"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeOfString> "Anstehendes Gestein"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeOfString> "Sandstone"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#madeOfString> "Sandstein"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#timeInterval> "Gjerde Phase 1 (5200-4200)"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#timeInterval> "Gjerde Phase 1 (5200-4200)"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#timeInterval> "Helskog Period II (4800-4000)"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://archaeology.link/ontology#timeInterval> "Helskog Periode II (4800-4000)"@de .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://www.w3.org/2000/01/rdf-schema#label> "Hjemmeluft: Bergbukten 1"@en .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/400001/index.html> .
+<http://data.archaeology.link/data/navisone/obj_400001> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
