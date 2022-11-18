@@ -11,5 +11,6 @@
 <http://data.archaeology.link/data/navisone/obj_200605> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
 <http://data.archaeology.link/data/navisone/obj_200605> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
 <http://data.archaeology.link/data/navisone/obj_200605> <http://www.w3.org/2000/01/rdf-schema#label> "Sarcofago della battaglia di Maratona"@en .
+<http://data.archaeology.link/data/navisone/obj_200605> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/obj_200605/index.html> .
 <http://data.archaeology.link/data/navisone/obj_200605> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200605/index.html> .
 <http://data.archaeology.link/data/navisone/obj_200605> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

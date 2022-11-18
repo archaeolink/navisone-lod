@@ -13,5 +13,6 @@
 <http://data.archaeology.link/data/navisone/obj_300069> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
 <http://data.archaeology.link/data/navisone/obj_300069> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
 <http://data.archaeology.link/data/navisone/obj_300069> <http://www.w3.org/2000/01/rdf-schema#label> "O41520 > 7a | Domitian"@en .
+<http://data.archaeology.link/data/navisone/obj_300069> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/obj_300069/index.html> .
 <http://data.archaeology.link/data/navisone/obj_300069> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/300069/index.html> .
 <http://data.archaeology.link/data/navisone/obj_300069> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

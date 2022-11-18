@@ -11,5 +11,6 @@
 <http://data.archaeology.link/data/navisone/obj_200406> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
 <http://data.archaeology.link/data/navisone/obj_200406> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
 <http://data.archaeology.link/data/navisone/obj_200406> <http://www.w3.org/2000/01/rdf-schema#label> "Codex Ilias Ambrosiana, I, 221, 245,254, 306"@en .
+<http://data.archaeology.link/data/navisone/obj_200406> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/obj_200406/index.html> .
 <http://data.archaeology.link/data/navisone/obj_200406> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200406/index.html> .
 <http://data.archaeology.link/data/navisone/obj_200406> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
