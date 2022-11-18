@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/uk/ukobj0007img01f.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#hasObjectTypeString> "Relief"@en .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#hasObjectTypeString> "Relief"@de .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#madeByString> "Sculpture"@en .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#madeByString> "Bildhauerei"@de .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#madeOfString> "Stone"@en .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#madeOfString> "Stein"@de .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#timeInterval> "Assyrian"@en .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://archaeology.link/ontology#timeInterval> "Assyrisch"@de .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://www.w3.org/2000/01/rdf-schema#label> "Relief 1 from Sennacherib"@en .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200942/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200942> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

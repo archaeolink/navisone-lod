@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/tn/tnobj0047img00f.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#hasObjectTypeString> "Lamp"@en .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#hasObjectTypeString> "Lampe"@de .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#madeByString> "Other"@en .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#madeByString> "Sonstige"@de .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#madeOfString> "Other"@en .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#madeOfString> "Sonstiges"@de .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#timeInterval> "Roman"@en .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://archaeology.link/ontology#timeInterval> "Römisch"@de .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://www.w3.org/2000/01/rdf-schema#label> "Carthago Antiquarium 1"@en .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200900/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200900> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

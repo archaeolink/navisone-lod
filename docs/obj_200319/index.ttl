@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/fr/frobj00362img01f.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#hasObjectTypeString> "Domestic Vessel"@en .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#hasObjectTypeString> "Gef&auml;&szlig;"@de .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#madeByString> "Moulded"@en .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#madeByString> "Ausgeformt"@de .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#madeOfString> "Ceramic"@en .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#madeOfString> "Keramik"@de .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#timeInterval> "Roman"@en .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://archaeology.link/ontology#timeInterval> "Römisch"@de .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://www.w3.org/2000/01/rdf-schema#label> "Applique 7 de Lyon"@en .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200319/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200319> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

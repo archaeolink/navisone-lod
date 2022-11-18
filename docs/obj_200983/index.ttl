@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/usa/usaobj0008img01f.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#hasObjectTypeString> "Gemstone"@en .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#hasObjectTypeString> "Gemme"@de .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#madeByString> "Carving"@en .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#madeByString> "Geschnitten"@de .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#madeOfString> "Jasper"@en .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#madeOfString> "Jaspis"@de .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#timeInterval> "Roman (late)"@en .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://archaeology.link/ontology#timeInterval> "Römisch (spät)"@de .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://www.w3.org/2000/01/rdf-schema#label> "Gem with Fishermen"@en .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200983/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200983> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

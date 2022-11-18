@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/ru/ruobj0004img01f.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#hasObjectTypeString> "Manuscript"@en .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#hasObjectTypeString> "Handschrift"@de .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#madeByString> "Ink"@en .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#madeByString> "Tinte"@de .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#madeOfString> "Parchment"@en .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#madeOfString> "Pergament"@de .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#timeInterval> "Byzantine"@en .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://archaeology.link/ontology#timeInterval> "Byzantinisch"@de .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://www.w3.org/2000/01/rdf-schema#label> "Ð¥Ð»ÑƒÐ´Ð¾Ð²ÑÐºÐ°Ñ Ð¿ÑÐ°Ð»Ñ‚ÐµÑ€ÑŒ (Chludov Psalterium, Ps. LXXXVIII, 10)"@en .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200802/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200802> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

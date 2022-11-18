@@ -1,0 +1,15 @@
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#hasImage> <https://gitlab.rlp.net/wissit/img/navisone-images/-/raw/main/no/noobj0002img00af.jpg> .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#hasObjectTypeString> "Other"@en .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#hasObjectTypeString> "Sonstiges"@de .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#hasType> <http://archaeology.link/ontology#Generic> .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#madeByString> "Carving"@en .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#madeByString> "Geschnitten"@de .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#madeOfString> "Other"@en .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#madeOfString> "Sonstiges"@de .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#timeInterval> "Viking Age"@en .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://archaeology.link/ontology#timeInterval> "Wikingerzeitlich"@de .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://www.w3.org/1999/02/22-rdf-syntax-ns#type> <http://archaeology.link/ontology#InformationCarrier> .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://www.w3.org/2000/01/rdf-schema#label> "Oseberg l&aring;g"@en .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://www.w3.org/2000/01/rdf-schema#seeAlso> <https://archaeolink.github.io/navisone-lod/200765/index.html> .
+<http://data.archaeology.link/data/navisone/obj_200765> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

@@ -1,0 +1,8 @@
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#hasObjectTypeString> "Wreck"@en .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#hasObjectTypeString> "Schiffswrack"@de .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#madeOfString> "Oak (Quercus spp.)"@en .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#madeOfString> "Eiche"@de .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#timeInterval> "Anglo Saxon"@en .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://archaeology.link/ontology#timeInterval> "Angelsäksisch"@de .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_100088> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .

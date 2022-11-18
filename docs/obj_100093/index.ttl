@@ -1,0 +1,14 @@
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#hasObjectTypeString> "Wreck"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#hasObjectTypeString> "Schiffswrack"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Spruce (Picea sp.)"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Rottanne"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Oak (Quercus spp.)"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Eiche"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Ash (Fraxinus spp.)"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#madeOfString> "Esche"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#timeInterval> "Iron Age"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#timeInterval> "Eisenzeitlich"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#timeInterval> "Roman"@en .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://archaeology.link/ontology#timeInterval> "Römisch"@de .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
+<http://data.archaeology.link/data/navisone/obj_100093> <http://purl.org/dc/elements/1.1/license> <http://creativecommons.org/licenses/by-sa/4.0> .
