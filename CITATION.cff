@@ -12,15 +12,15 @@ title: "NAVIS.one: Linked Open Ships"
 abstract: Linked Open Data of the NAVIS.one database, based on the NAVIS I-III databases.
 version: 0.1
 type: dataset
-doi: TBD
+doi: 10.5281/zenodo.7353842
 date-released: 2022-11-18
 identifiers:
   - description: This is the collection of archived snapshots of all versions
     type: doi
-    value: "TBD"
+    value: "10.5281/zenodo.7353842"
   - description: This is the archived snapshot of version 0.1
     type: doi
-    value: "TBD"
+    value: "10.5281/zenodo.7353843"
 repository-code: "https://github.com/archaeolink/navisone-lod"
 keywords:
   - "Linked Open Data"
