@@ -2,11 +2,12 @@ cff-version: 1.2.0
 authors:
   - family-names: Thiery
     given-names: Florian
+    affiliation: "RGZM"
     orcid: https://orcid.org/0000-0002-3246-3531
   - family-names: Allard W.
     given-names: Mees
+    affiliation: "RGZM"
     orcid: https://orcid.org/0000-0002-7634-5342
-  - name: "NAVIS.one: Linked Open Ships"
 title: "NAVIS.one: Linked Open Ships"
 abstract: Linked Open Data of the NAVIS.one database, based on the NAVIS I-III databases.
 version: 0.1
@@ -33,8 +34,12 @@ preferred-citation:
   authors:
     - family-names: Thiery
       given-names: Florian
+      affiliation: "RGZM"
+      orcid: https://orcid.org/0000-0002-3246-3531
     - family-names: Mees
       given-names: Allard W. 
+      affiliation: "RGZM"
+      orcid: https://orcid.org/0000-0002-7634-5342
   title: "NAVIS.one: Linked Open Ships"
   type: dataset
   year: 2022
